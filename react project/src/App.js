@@ -268,7 +268,7 @@ class App extends Component {
         return (
         <div className="App">
             <div className="col-md-6 col-md-offset-3">
-                <h1 className="decision-heading">Martial Art : Decision Making</h1>
+                <h1 className="decision-heading">Martial Arts : Decision Making</h1>
             <p className="App-intro">
         Interested in starting Martial Arts? Don't know which discipline to study or start! 
         Then you come to the right place to evaluate and decide which is a perfect fit for you.</p>
